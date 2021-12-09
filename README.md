@@ -1,4 +1,4 @@
-# community_data
+# Community Open Data
 This repo consists of a single CSV file. 
 
 The purpose of this repo is to provide a list of community-curated open data sets. Many, if not all of these, consist of data to be found in [Wikidata](https://wikidata.org). 
