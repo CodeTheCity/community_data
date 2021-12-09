@@ -1,2 +1,3 @@
 ﻿Name of Data Set,Organization_optional,Description,Category,URL,SPARQL_Endpoint_optional,Geographic_coverage_if_known
 Artworks of AAGM,Code The City,Partial export of artworks from AAGM collection,Arts / Culture / History,https://w.wiki/4XVH,https://w.wiki/_yWYi,Aberdeen
+Scottish Local Authorities,,"Full list of all councils  with websites, twitter accounts, WDTK IDs",Elections / Politics,https://w.wiki/4XVW,https://w.wiki/_yWYV,Scotland
