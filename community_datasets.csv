@@ -1,3 +1,14 @@
-﻿Name of Data Set,Organization_optional,Description,Category,URL,SPARQL_Endpoint_optional,Geographic_coverage_if_known
+﻿Name of Data Set,Organisation,Description,Category,URL,SPARQL_Endpoint,Geography
 Artworks of AAGM,Code The City,Partial export of artworks from AAGM collection,Arts / Culture / History,https://w.wiki/4XVH,https://w.wiki/_yWYi,Aberdeen
-Scottish Local Authorities,,"Full list of all councils  with websites, twitter accounts, WDTK IDs",Elections / Politics,https://w.wiki/4XVW,https://w.wiki/_yWYV,Scotland
+Iron Foundries of Aberdeen,Code The City,List of historic iron founding companies in Aberdeen,Arts / Culture / History,https://w.wiki/4Z$J,https://w.wiki/_yU2g,Aberdeen
+Commemorative plaques of Aberdeen,Code The City,List of plaques with locations,Arts / Culture / History,https://w.wiki/4a72,https://w.wiki/_yTvy,Aberdeen
+Provosts and Lord Provosts of Aberdeen,Code The City,List of all provosts and lord provosts of the city,Arts / Culture / History,https://w.wiki/RTq,https://w.wiki/_yTvu,Aberdeen
+Returned convicts of Aberdeen (1869 - 1921),Code The City,List of all convicts in the register 1869 to 1921,Arts / Culture / History,https://w.wiki/4a7A,https://w.wiki/_yTvp,Aberdeen
+Aberdeen Built ships,Code The City,List of ships built in Aberdeen,Arts / Culture / History,https://w.wiki/4a7N,https://w.wiki/_yTvc,Aberdeen
+Nautical Wrecks of Scotland,Code The City,All nautical wrecks exported from HES data,Arts / Culture / History,https://w.wiki/4a7V,https://w.wiki/_yTvV,Scotland
+Aircraft wrecks of Scotland,Code The City,All aircraft wrecks exported from HES data,Arts / Culture / History,https://w.wiki/4a7b,https://w.wiki/_yTvR,Scotland
+Settlements of Aberdeenshire,Code The City,"Settlments with English and Doric names, lcoations, images",Arts / Culture / History,https://w.wiki/4a6H,https://w.wiki/_yTvN,Aberdeenshire
+Scottish Local Authorities,Code The City,"Full list of all councils  with websites, twitter accounts, WDTK IDs",Elections / Politics,https://w.wiki/4XVW,https://w.wiki/_yWYV,Scotland
+Scottish Health Boards,Code The City,Full list of all health boards of Scotland,Health / Human Services,https://w.wiki/4BrV,https://w.wiki/_yTvM,Scotland
+Scottish Health and Social Care Partnerships,Code The City,Full list of all Health and Social Care partnerships of Scotland,Health / Human Services,https://w.wiki/4TY7,https://w.wiki/_yTvJ,Scotland
+All government agenicies of Scotland,Code The City,Comprehensive query of all SG agencies including local govt and health,Elections / Politics,https://w.wiki/4Tro,https://w.wiki/4a6N,Scotland
